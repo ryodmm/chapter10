@@ -72,12 +72,13 @@ footer{
   main{
     width:100%;
     display:block;
-    margin:50px 5%;
+    margin:50px auto;
   }
   
   .contents-box{
     width:90%;
-    margin:0 0 20px 0
+    margin:0 auto 20px auto;
+    
   }
   
   footer{
